@@ -1,1 +1,1 @@
-# Plinko-C---32
+# PLINKO
